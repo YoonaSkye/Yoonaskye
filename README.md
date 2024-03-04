@@ -20,5 +20,7 @@ Here are some ideas to get you started:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%231E90FF?style=for-the-badge&logo=typescript&logoColor=ffffff&labelColor=%1E90FFC&color=%231266C4)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=for-the-badge&logo=react)
 
+<!--
 ### My Github Actions
 ![](https://github-readme-stats.vercel.app/api?username=YoonaSkye&show_icons=true&theme=radical)
+-->
